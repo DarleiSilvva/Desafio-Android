@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36826927836",
+    "firebase_url": "https://desafioandroidmobills.firebaseio.com",
+    "project_id": "desafioandroidmobills",
+    "storage_bucket": "desafioandroidmobills.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36826927836:android:8e7dd4a0e5793ed1439a19",
+        "android_client_info": {
+          "package_name": "caatsoft.studio.com.desafioandroidmobills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36826927836-naiqil3j6jhr7bufjss47r5mpt8dd0ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "caatsoft.studio.com.desafioandroidmobills",
+            "certificate_hash": "795350539a099e374459e7ff7aadb1efb4f7a3cf"
+          }
+        },
+        {
+          "client_id": "36826927836-t8ntjo3k6g7gdoaj496f327l7efmhkj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7RtIy7tMzS4L9dvtHEi4TF3lqMHbBp0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36826927836-t8ntjo3k6g7gdoaj496f327l7efmhkj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

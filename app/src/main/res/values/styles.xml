@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorPrimaryDark">@color/verde2</item>
+        <item name="colorAccent">@color/verde</item>
+        <item name="android:fontFamily">@font/audiowide</item>
+        <item name="android:windowBackground">@drawable/fundo_inicio</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:fontFamily">@font/audiowide</item>
+        <item name="android:windowBackground">@drawable/fundo_inicio</item>
+    </style>
+
+    <style name="AppThemeApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorPrimaryDark">@color/verde2</item>
+        <item name="colorAccent">@color/verde</item>
+        <item name="android:fontFamily">@font/audiowide</item>
+        <item name="android:screenOrientation">userPortrait</item>
+        <item name="android:windowBackground">@color/verde</item>
+    </style>
+
+</resources>

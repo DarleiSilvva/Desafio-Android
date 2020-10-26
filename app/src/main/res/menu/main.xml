@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/grafico_gerais"
+        android:icon="@drawable/ic_baseline_insert_chart_outlined_24"
+        android:orderInCategory="100"
+        android:title="grafico_gerais"
+        app:showAsAction="always|never" />
+
+</menu>
